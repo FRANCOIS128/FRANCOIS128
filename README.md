@@ -59,35 +59,10 @@ Feel free to explore my projects to see how I blend innovative technology with r
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francois128&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-## 🚀 Projects
+<hr />
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
 
-  <!-- Card 1 -->
-  <div>
-    <strong>Portfolio Website</strong><br/>
-    <a href="https://francois-li.dev" target="_blank">francois-li.dev</a><br/>
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-    <!-- ... -->
-  </div>
 
-  <!-- Card 2 -->
-  <div>
-    <strong>Real-time Dashboard</strong><br/>
-    <a href="https://dashboard.example.com" target="_blank">dashboard.example.com</a><br/>
-    <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" alt="Three.js" />
-    <!-- ... -->
-  </div>
-
-  <!-- Card 3 -->
-  <div>
-    <strong>Auth API Service</strong><br/>
-    <a href="https://auth-api.example.com" target="_blank">auth-api.example.com</a><br/>
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
-    <!-- ... -->
-  </div>
-
-</div>
 
 
 
