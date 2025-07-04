@@ -1,63 +1,51 @@
 <!--
-  注意：把下面的占位符都改成你的实际信息
+  📌 注意：请把以下所有占位符（ALL_CAPS）替换成你的真实信息或链接
 -->
 
 # 👋 Hi, I’m Francois Li
 
 > 🎓 Computer Science @ University of Melbourne  
 > 🌐 Passionate about Web & Game Development  
-> 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
-> 🌱 Currently learning: Linear Algebra · Multi-Variate Calculus · Full-Stack Projects  
+> 🔭 Currently working on: [Textoggle Auto-Player](https://github.com/FRANCOIS128/textoggle-autoplayer)  
+> 🌱 Learning: Linear Algebra · Multi-Variate Calculus · Full-Stack Projects  
+> ⚡ Fun fact: scored 200+ points in a solo Textoggle game 😉
 
 ---
 
-## 🚀 About Me
+## 🏷️ Headline
 
-- 🔭 I’m working on [Textoggle Auto-Player](https://github.com/FRANCOIS128/textoggle-autoplayer)  
-- 💬 Ask me about **React**, **Node.js**, **Docker**, **AWS**, **Linear Algebra**  
-- 👯 I’m looking to collaborate on open-source game engines and web apps  
-- ⚡ Fun fact: I once scored 200+ points in a solo Textoggle game 😉
+**AI Engineer | React · Node.js · Docker · AWS | Building high-performance web & game apps**
+
+---
+
+## 🛠️ Tech Stack
+
+<p float="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="28"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FRANCOIS128&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCOIS128&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FRANCOIS128&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCOIS128&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📂 Selected Projects
 
-| Name | Description | Live/Demo |
-| ---- | ----------- | --------- |
-| [Textoggle Auto-Player](https://github.com/FRANCOIS128/textoggle-autoplayer) | 自动找到最高分单词并模拟游戏 | 🔗 Demo |
-| [MyTimetable](https://github.com/FRANCOIS128/mytimetable) | 大学生课程表生成工具 | 🔗 Demo |
-| [Portfolio Website](https://francois128.github.io) | 个人作品集 & 博客 | 🔗 Visit |
-
-🔗 **更多项目**：在右侧 Pin 的仓库里挑选你最想展示的 6 个
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn][linkedin-shield]][linkedin-url]  
-[![Twitter][twitter-shield]][twitter-url]  
-[![Email][email-shield]][email-url]  
-
-<!-- ======= Badges ======= -->
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white  
-[twitter-shield]:  https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white  
-[email-shield]:    https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white  
-
-[linkedin-url]:  https://www.linkedin.com/in/your-linkedin  
-[twitter-url]:   https://twitter.com/your-twitter  
-[email-url]:     mailto:your.email@example.com  
-
----
-
-*“Success usually comes to those who are too busy to be looking for it.”*  
-</br>
-Last updated: <!--START_SECTION:waka-->🏄‍♂️️ Surfing the code — still coding...<!--END_SECTION:waka-->
+| 项目名称 | 描述 | 链接 |
+| :------: | :--- | :--- |
+| Textoggle Auto-Player | 自动找高分单词并模拟游戏 | [Repo](https://github.com/FRANCOIS128/textoggle-autoplayer) · [Demo](#) |
+| MyTimetable | 大学生课程表生成工具 | [Repo](https://github.com/FRANCOIS128/mytimetable) · [Live](#) |
+| Portfolio Website | 个人作品集 & 博客 | [Visit](https://FRANCOIS128.github.io) |
+| Full-Stack Boilerplate | React + Node.js + Docker 模板 | [Repo](https://github.com/FRANCOIS128/fullstack-boilerplate) |
+| Linear Algebra Notes | 线性代数学习笔记 & 例题 | [Repo](https://github.com/FRANCOIS128/linear-algebra-no)
