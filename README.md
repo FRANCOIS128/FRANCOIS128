@@ -52,80 +52,21 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 20px;">
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FRANCOIS128&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCOIS128&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-  <!-- Project Card 1 -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
-    <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-      <div style="height: 140px; background: rgba(255,255,255,0.05); border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: rgba(255,255,255,0.6); font-size: 14px;">
-        🚀 Project Preview
-      </div>
-      <h3 style="color: white; margin: 0 0 8px 0; font-size: 18px; font-weight: 600;">Project Name</h3>
-      <p style="color: rgba(255,255,255,0.8); margin: 0 0 16px 0; font-size: 14px; line-height: 1.4;">Brief project description goes here...</p>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">React</span>
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Node.js</span>
-      </div>
-      <div style="display: flex; gap: 12px;">
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>🔗</span> Live Demo
-        </a>
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>📁</span> Code
-        </a>
-      </div>
-    </div>
-  </div>
+---
 
-  <!-- Project Card 2 -->
-  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
-    <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-      <div style="height: 140px; background: rgba(255,255,255,0.05); border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: rgba(255,255,255,0.6); font-size: 14px;">
-        ⚡ Project Preview
-      </div>
-      <h3 style="color: white; margin: 0 0 8px 0; font-size: 18px; font-weight: 600;">Project Name</h3>
-      <p style="color: rgba(255,255,255,0.8); margin: 0 0 16px 0; font-size: 14px; line-height: 1.4;">Brief project description goes here...</p>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Python</span>
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">AWS</span>
-      </div>
-      <div style="display: flex; gap: 12px;">
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>🔗</span> Live Demo
-        </a>
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>📁</span> Code
-        </a>
-      </div>
-    </div>
-  </div>
+## 📂 Selected Projects
 
-  <!-- Project Card 3 -->
-  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); transition: transform 0.3s ease, box-shadow 0.3s ease; position: relative; overflow: hidden;">
-    <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
-      <div style="height: 140px; background: rgba(255,255,255,0.05); border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: rgba(255,255,255,0.6); font-size: 14px;">
-        🎨 Project Preview
-      </div>
-      <h3 style="color: white; margin: 0 0 8px 0; font-size: 18px; font-weight: 600;">Project Name</h3>
-      <p style="color: rgba(255,255,255,0.8); margin: 0 0 16px 0; font-size: 14px; line-height: 1.4;">Brief project description goes here...</p>
-      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px;">
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Three.js</span>
-        <span style="background: rgba(255,255,255,0.2); color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Docker</span>
-      </div>
-      <div style="display: flex; gap: 12px;">
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>🔗</span> Live Demo
-        </a>
-        <a href="#" style="color: white; text-decoration: none; font-size: 14px; display: flex; align-items: center; gap: 4px;">
-          <span>📁</span> Code
-        </a>
-      </div>
-    </div>
-  </div>
+| Name | Description | Live/Demo |
+| ---- | ----------- | --------- |
+| [Textoggle Auto-Player](https://github.com/FRANCOIS128/textoggle-autoplayer) | 自动找到最高分单词并模拟游戏 | 🔗 Demo |
+| [MyTimetable](https://github.com/FRANCOIS128/mytimetable) | 大学生课程表生成工具 | 🔗 Demo |
+| [Portfolio Website](https://francois128.github.io) | 个人作品集 & 博客 | 🔗 Visit |
 
-</div>
-
-  </div>
 </div>
