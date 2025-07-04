@@ -61,17 +61,59 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 💼 Projects
 
-| World Clock               |    worldclock.cloud                |
-| Cardgroup Util            |    cardgrouputils.netlify.app      |
-| FLsocial Web              |    flsocial.netlify.app            |
+<div align="center">
 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
+    <!-- Card 1 -->
+    <div style="
+      background: #0d1117;
+      border-radius: 10px;
+      padding: 1rem;
+      width: 180px;
+      text-align: center;
+    ">
+      <h4 style="margin: .5em 0;">
+        <a href="https://worldclock.cloud" style="color: #58a6ff; text-decoration: none;">
+          🌐 World Clock
+        </a>
+      </h4>
+      <small><a href="https://worldclock.cloud" style="color: #39d353;">worldclock.cloud</a></small>
+    </div>
+
+    <!-- Card 2 -->
+    <div style="
+      background: #0d1117;
+      border-radius: 10px;
+      padding: 1rem;
+      width: 180px;
+      text-align: center;
+    ">
+      <h4 style="margin: .5em 0;">
+        <a href="https://cardgrouputils.netlify.app" style="color: #58a6ff; text-decoration: none;">
+          ⚙️ Cardgroup Util
+        </a>
+      </h4>
+      <small><a href="https://cardgrouputils.netlify.app" style="color: #39d353;">cardgrouputils.netlify.app</a></small>
+    </div>
+
+    <!-- Card 3 -->
+    <div style="
+      background: #0d1117;
+      border-radius: 10px;
+      padding: 1rem;
+      width: 180px;
+      text-align: center;
+    ">
+      <h4 style="margin: .5em 0;">
+        <a href="https://flsocial.netlify.app" style="color: #58a6ff; text-decoration: none;">
+          💬 FLsocial Web
+        </a>
+      </h4>
+      <small><a href="https://flsocial.netlify.app" style="color: #39d353;">flsocial.netlify.app</a></small>
+    </div>
+
+  </div>
 </div>
-
-
-
-
-
-
 
 </div>
