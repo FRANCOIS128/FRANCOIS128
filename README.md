@@ -54,9 +54,10 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 📊 GitHub Stats
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FRANCOIS128&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCOIS128&layout=compact&theme=tokyonight" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=francois128&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francois128&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
 
 </div>
