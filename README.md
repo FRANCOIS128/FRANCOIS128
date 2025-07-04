@@ -61,12 +61,85 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ---
 
-## 📂 Selected Projects
+## 📂 Featured Projects
 
-| Name | Description | Live/Demo |
-| ---- | ----------- | --------- |
-| [Textoggle Auto-Player](https://github.com/FRANCOIS128/textoggle-autoplayer) | 自动找到最高分单词并模拟游戏 | 🔗 Demo |
-| [MyTimetable](https://github.com/FRANCOIS128/mytimetable) | 大学生课程表生成工具 | 🔗 Demo |
-| [Portfolio Website](https://francois128.github.io) | 个人作品集 & 博客 | 🔗 Visit |
-
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="33%" valign="top" style="padding: 10px;">
+      <div style="border: 2px solid #667eea; border-radius: 12px; padding: 20px; background: linear-gradient(45deg, #f8f9ff, #ffffff); box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);">
+        <div style="height: 120px; background: #f0f2ff; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px; border: 1px dashed #667eea;">
+          <span style="color: #667eea; font-size: 24px;">🚀</span>
+        </div>
+        <h3 style="margin: 0 0 10px 0; color: #2d3748; font-size: 16px;">
+          <strong>Project Name</strong>
+        </h3>
+        <p style="margin: 0 0 15px 0; color: #718096; font-size: 13px; line-height: 1.4;">
+          Brief project description goes here...
+        </p>
+        <div style="margin-bottom: 15px;">
+          <span style="background: #667eea; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px; margin-right: 5px;">React</span>
+          <span style="background: #667eea; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px;">Node.js</span>
+        </div>
+        <div>
+          <a href="#" style="color: #667eea; text-decoration: none; font-size: 12px; margin-right: 15px;">
+            🔗 <strong>Live Demo</strong>
+          </a>
+          <a href="#" style="color: #667eea; text-decoration: none; font-size: 12px;">
+            📁 <strong>Code</strong>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 10px;">
+      <div style="border: 2px solid #f093fb; border-radius: 12px; padding: 20px; background: linear-gradient(45deg, #fff8fd, #ffffff); box-shadow: 0 4px 15px rgba(240, 147, 251, 0.1);">
+        <div style="height: 120px; background: #fdf2ff; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px; border: 1px dashed #f093fb;">
+          <span style="color: #f093fb; font-size: 24px;">⚡</span>
+        </div>
+        <h3 style="margin: 0 0 10px 0; color: #2d3748; font-size: 16px;">
+          <strong>Project Name</strong>
+        </h3>
+        <p style="margin: 0 0 15px 0; color: #718096; font-size: 13px; line-height: 1.4;">
+          Brief project description goes here...
+        </p>
+        <div style="margin-bottom: 15px;">
+          <span style="background: #f093fb; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px; margin-right: 5px;">Python</span>
+          <span style="background: #f093fb; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px;">AWS</span>
+        </div>
+        <div>
+          <a href="#" style="color: #f093fb; text-decoration: none; font-size: 12px; margin-right: 15px;">
+            🔗 <strong>Live Demo</strong>
+          </a>
+          <a href="#" style="color: #f093fb; text-decoration: none; font-size: 12px;">
+            📁 <strong>Code</strong>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 10px;">
+      <div style="border: 2px solid #4facfe; border-radius: 12px; padding: 20px; background: linear-gradient(45deg, #f0fdff, #ffffff); box-shadow: 0 4px 15px rgba(79, 172, 254, 0.1);">
+        <div style="height: 120px; background: #f0fdff; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px; border: 1px dashed #4facfe;">
+          <span style="color: #4facfe; font-size: 24px;">🎨</span>
+        </div>
+        <h3 style="margin: 0 0 10px 0; color: #2d3748; font-size: 16px;">
+          <strong>Project Name</strong>
+        </h3>
+        <p style="margin: 0 0 15px 0; color: #718096; font-size: 13px; line-height: 1.4;">
+          Brief project description goes here...
+        </p>
+        <div style="margin-bottom: 15px;">
+          <span style="background: #4facfe; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px; margin-right: 5px;">Three.js</span>
+          <span style="background: #4facfe; color: white; padding: 3px 8px; border-radius: 10px; font-size: 11px;">Docker</span>
+        </div>
+        <div>
+          <a href="#" style="color: #4facfe; text-decoration: none; font-size: 12px; margin-right: 15px;">
+            🔗 <strong>Live Demo</strong>
+          </a>
+          <a href="#" style="color: #4facfe; text-decoration: none; font-size: 12px;">
+            📁 <strong>Code</strong>
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
