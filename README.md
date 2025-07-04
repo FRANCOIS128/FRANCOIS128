@@ -59,7 +59,42 @@ Feel free to explore my projects to see how I blend innovative technology with r
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francois128&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<hr />
+## 💼 My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <!-- —— 下面每个 div 就是一张卡片，改 name、demo、badges 即可 —— -->
+  <div style="border-radius: 10px;
+              padding: 15px;
+              margin: 10px;
+              box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+              width: 30%;
+              min-width: 250px;
+              text-align: center;">
+    <!-- 项目名 -->
+    <h3><a href="https://your-domain.com" target="_blank">项目名称 A</a></h3>
+    <!-- 演示链接 -->
+    <p><a href="https://your-domain.com" target="_blank">https://your-domain.com</a></p>
+    <!-- 技术徽章 -->
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
+    </p>
+  </div>
+
+  <!-- 复制上面这个 <div>，粘贴调整内容，最多三列自动换行 -->
+  <div style="border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 30%; min-width: 250px; text-align: center;">
+    <h3><a href="https://another-project.com" target="_blank">项目名称 B</a></h3>
+    <p><a href="https://another-project.com" target="_blank">another-project.com</a></p>
+    <p>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    </p>
+  </div>
+
+</div>
+
 
 
 
