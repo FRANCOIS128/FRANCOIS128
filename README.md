@@ -67,39 +67,39 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 <table>
   <tr>
-    <td align="center" width="33%" style="padding: 20px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #ffffff;">
-        <img width="280" height="180" src="https://via.placeholder.com/280x180/ffffff/cccccc?text=" style="border-radius: 6px; border: 1px solid #e1e4e8;"/>
-        <br><br>
-        <h3 style="margin: 10px 0; color: #24292e;"><strong>Project Title</strong></h3>
-        <p style="color: #586069; margin: 10px 0;"><em>Project description goes here...</em></p>
+    <td align="center" width="33%">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; color: #e6edf3;">
+        <img width="280" height="180" src="https://via.placeholder.com/280x180/21262d/7d8590?text=" style="border-radius: 6px; border: 1px solid #30363d;"/>
+        <br/><br/>
+        <h3 style="color: #e6edf3; margin: 10px 0;"><strong>Project Title</strong></h3>
+        <p style="color: #7d8590; margin: 10px 0;"><em>Project description goes here...</em></p>
         <p style="margin: 15px 0;">
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
         </p>
       </div>
     </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #ffffff;">
-        <img width="280" height="180" src="https://via.placeholder.com/280x180/ffffff/cccccc?text=" style="border-radius: 6px; border: 1px solid #e1e4e8;"/>
-        <br><br>
-        <h3 style="margin: 10px 0; color: #24292e;"><strong>Project Title</strong></h3>
-        <p style="color: #586069; margin: 10px 0;"><em>Project description goes here...</em></p>
+    <td align="center" width="33%">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; color: #e6edf3;">
+        <img width="280" height="180" src="https://via.placeholder.com/280x180/21262d/7d8590?text=" style="border-radius: 6px; border: 1px solid #30363d;"/>
+        <br/><br/>
+        <h3 style="color: #e6edf3; margin: 10px 0;"><strong>Project Title</strong></h3>
+        <p style="color: #7d8590; margin: 10px 0;"><em>Project description goes here...</em></p>
         <p style="margin: 15px 0;">
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
         </p>
       </div>
     </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background-color: #ffffff;">
-        <img width="280" height="180" src="https://via.placeholder.com/280x180/ffffff/cccccc?text=" style="border-radius: 6px; border: 1px solid #e1e4e8;"/>
-        <br><br>
-        <h3 style="margin: 10px 0; color: #24292e;"><strong>Project Title</strong></h3>
-        <p style="color: #586069; margin: 10px 0;"><em>Project description goes here...</em></p>
+    <td align="center" width="33%">
+      <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; color: #e6edf3;">
+        <img width="280" height="180" src="https://via.placeholder.com/280x180/21262d/7d8590?text=" style="border-radius: 6px; border: 1px solid #30363d;"/>
+        <br/><br/>
+        <h3 style="color: #e6edf3; margin: 10px 0;"><strong>Project Title</strong></h3>
+        <p style="color: #7d8590; margin: 10px 0;"><em>Project description goes here...</em></p>
         <p style="margin: 15px 0;">
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
-          <span style="background-color: #28a745; color: white; padding: 4px 8px; border-radius: 3px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
+          <span style="background-color: #238636; color: #ffffff; padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 2px;">TECH</span>
         </p>
       </div>
     </td>
