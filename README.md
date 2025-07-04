@@ -1,8 +1,4 @@
-<!--
-  📌 注意：请将以下所有 ALL_CAPS 占位符替换成你的真实信息
--->
-
-<h1 align="center">AI/ML Ideas, Strategies, Newsletter & Community 🚀</h1>
+<h1 align="center">Hi I'm Francois</h1>
 <h2 align="center">Data Scientist & Software Engineer</h2>
 <p align="center">Building AI-powered products and sharing knowledge to help others learn and grow.</p>
 
@@ -14,7 +10,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="www.linkedin.com/in/francoisli08" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
