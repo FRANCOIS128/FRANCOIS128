@@ -59,5 +59,76 @@ Feel free to explore my projects to see how I blend innovative technology with r
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francois128&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
+<hr />
+
+## 🚀 Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+
+  <!-- Card 1 -->
+  <div style="
+    flex: 1 1 30%;
+    min-width: 200px;
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  ">
+    <h3 style="margin-top: 0;">
+      <a href="https://francois-li.dev" target="_blank">Portfolio Website</a>
+    </h3>
+    <p>我的个人作品集网站，用来展示简历、博客和项目案例。</p>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Vite-CF649A?logo=vite&logoColor=white" alt="Vite" />
+    </p>
+  </div>
+
+  <!-- Card 2 -->
+  <div style="
+    flex: 1 1 30%;
+    min-width: 200px;
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  ">
+    <h3 style="margin-top: 0;">
+      <a href="https://dashboard.example.com" target="_blank">Real-time Dashboard</a>
+    </h3>
+    <p>一个基于 Three.js 的实时数据可视化面板。</p>
+    <p>
+      <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/WebSockets-008000?logo=websockets&logoColor=white" alt="WebSockets" />
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+    </p>
+  </div>
+
+  <!-- Card 3 -->
+  <div style="
+    flex: 1 1 30%;
+    min-width: 200px;
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  ">
+    <h3 style="margin-top: 0;">
+      <a href="https://auth-api.example.com" target="_blank">Auth API Service</a>
+    </h3>
+    <p>一个轻量级的身份验证微服务，支持 JWT 和角色权限管理。</p>
+    <p>
+      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+    </p>
+  </div>
+
+  <!-- 你可以继续复制上面的结构，添加第 4、5、6... 个卡片 -->
+
+</div>
+
+
 
 </div>
