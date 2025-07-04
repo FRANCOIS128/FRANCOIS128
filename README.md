@@ -2,7 +2,7 @@
 <div align="center" width="250px" style="float:left; margin-right:40px;">
 
   <!-- 名字 & 职业 -->
-  <h1>Hi I'm Francois</h1>
+  <h1>👋 Hi I'm Francois</h1>
   <p><em>Data Scientist & FullStack Developer</em></p>
   <p>Computer Science @ University of Melbourne</p>
   <p>Building useful products and sharing knowledge to help the community.</p>
