@@ -63,50 +63,60 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 📂 Featured Projects
 
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="🚀" width="100" alt="Project 1"/>
-      <br />
-      <h3>Project Name</h3>
-      <p>Brief project description goes here...</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      </p>
-      <p>
-        <a href="#">Live Demo</a> • 
-        <a href="#">Code</a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <img src="⚡" width="100" alt="Project 2"/>
-      <br />
-      <h3>Project Name</h3>
-      <p>Brief project description goes here...</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
-      </p>
-      <p>
-        <a href="#">Live Demo</a> • 
-        <a href="#">Code</a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <img src="🎨" width="100" alt="Project 3"/>
-      <br />
-      <h3>Project Name</h3>
-      <p>Brief project description goes here...</p>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-      </p>
-      <p>
-        <a href="#">Live Demo</a> • 
-        <a href="#">Code</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<div>
+<img width="300" height="200" src="https://via.placeholder.com/300x200/667eea/ffffff?text=Project+1"/>
+<br><br>
+<h3><strong>Project Title</strong></h3>
+<p><em>Project description goes here...</em></p>
+<p>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+</p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>📁 Code</strong></a>
+</p>
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+<img width="300" height="200" src="https://via.placeholder.com/300x200/f093fb/ffffff?text=Project+2"/>
+<br><br>
+<h3><strong>Project Title</strong></h3>
+<p><em>Project description goes here...</em></p>
+<p>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+</p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>📁 Code</strong></a>
+</p>
+</div>
+</td>
+<td align="center" width="33%">
+<div>
+<img width="300" height="200" src="https://via.placeholder.com/300x200/4facfe/ffffff?text=Project+3"/>
+<br><br>
+<h3><strong>Project Title</strong></h3>
+<p><em>Project description goes here...</em></p>
+<p>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+<img src="https://img.shields.io/badge/Tech-Stack?style=for-the-badge&logo=&logoColor=white" alt="Tech"/>
+</p>
+<p>
+<a href="#"><strong>🔗 Live Demo</strong></a> • 
+<a href="#"><strong>📁 Code</strong></a>
+</p>
+</div>
+</td>
+</tr>
 </table>
+
+</div>
 </div>
