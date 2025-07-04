@@ -2,7 +2,7 @@
 <div align="center" width="250px" style="float:left; margin-right:40px;">
 
   <!-- 名字 & 职业 -->
-  <h1>Francois</h1>
+  <h1>Hi I'm Francois</h1>
   <p><em>Full Stack Developer</em></p>
   <p>Computer Science @ University of Melbourne</p>
 
@@ -18,22 +18,14 @@
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-
-  <!-- Achievements & Highlights（可选） -->
-  <p>
-    <!-- 例如使用 GitHub 贡献热度图 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=FRANCOIS128&show_icons=true" width="200"/>
-  </p>
-
 </div>
 
 <!-- 右侧主区 -->
 <div style="overflow:hidden;">
 
-## AI/ML Ideas, Strategies, Newsletter & Community 🚀  
-# Data Scientist & Software Engineer  
+# Data Scientist & FullStack Developer  
 
-Building AI-powered products and sharing knowledge to help the community.  
+Building useful products and sharing knowledge to help the community.  
 
 ---
 
