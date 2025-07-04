@@ -41,6 +41,8 @@ Feel free to explore my projects to see how I blend innovative technology with r
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/⁠pnpm-F69220?logo=pnpm&logoColor=white" alt="pnpm"/>
+
 </p>
 
 ---
