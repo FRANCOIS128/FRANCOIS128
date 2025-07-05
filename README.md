@@ -63,7 +63,7 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 💼 Projects
 
-- 🌐 **[World Clock](https://worldclock.cloud)** — 🔗 [worldclock.cloud](https://worldclock.cloud)
+- 🌐 **[World Clock](https://worldclock.cloud)** — 🔗 [worldclock.cloud](https://worldclock.cloud) - react router zustand style-component
 - ⚙️ **[Cardgroup Util](https://cardgrouputils.netlify.app)** — 🔗 [cardgrouputils.netlify.app](https://cardgrouputils.netlify.app)
 - 💬 **[FLsocial Web](https://flsocial.netlify.app)** — 🔗 [flsocial.netlify.app](https://flsocial.netlify.app)
 
