@@ -1,14 +1,11 @@
 <!-- 左侧栏 -->
 <div width="250px" style="float:left; margin-right:40px;">
-  <!-- 名字 & 职业 - 居中对齐 -->
   <div align="center">
     <h1>👋 Hi I'm Francois</h1>
     <p><em>Data Scientist & FullStack Developer</em></p>
     <p>Computer Science @ University of Melbourne</p>
     <p>Building useful products and sharing knowledge to help the community.</p>
   </div>
- 
-  <!-- Socials及以下内容 - 左对齐 -->
   <div align="left">
     
 ### Socials  
@@ -48,9 +45,10 @@ Feel free to explore my projects to see how I blend innovative technology with r
 ---
 
 ## Highlights
-- 🎯 Built a real-time data visualization dashboard with **Three.js** and **WebSockets**.  
-- ☁️ Deployed containerized apps on **AWS ECS** using **Docker** & **GitHub Actions**.  
-- 🤖 Automated workflows with **Python** cloud functions and AI integrations.  
+- 🌐 Led development of multiple full-stack websites using cutting-edge, market-aligned tech stacks.
+- ☁️ Currently learning microservices deployment on **AWS ECS** with **Docker** and CI/CD automation via **GitHub Actions**, demonstrating a strong passion for exploring diverse computing technologies.
+- 🎓 Achieved H1 (High Distinction) in all university courses to date, demonstrating consistent academic excellence.
+ 
 
 ---
 
@@ -63,13 +61,13 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 💼 Projects
 
-  ## Main
+## Main
 
 - 💬 **[FLsocial Web](https://flsocial.netlify.app)** — 🔗 [flsocial.netlify.app](https://flsocial.netlify.app)
 - 💬 **[Threejs Book Demo](https://threejsbook.netlify.app)** - 🔗 [threejsbook.netlify.app](https://threejsbook.netlify.app)
 - 💬 **[Recipes](https://recipessystem.netlify.app)** - 🔗 [recipessystem.netlify.app](https://recipessystem.netlify.app)
 
-  ## Utils
+## Utils
 
 - 🌐 **[World Clock](https://worldclock.cloud)** — 🔗 [worldclock.cloud](https://worldclock.cloud) - react router zustand style-component
 - ⚙️ **[Cardgroup Util](https://cardgrouputils.netlify.app)** — 🔗 [cardgrouputils.netlify.app](https://cardgrouputils.netlify.app)
