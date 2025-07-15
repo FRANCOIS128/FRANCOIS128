@@ -63,9 +63,17 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 ## 💼 Projects
 
+  ## Main
+
+- 💬 **[FLsocial Web](https://flsocial.netlify.app)** — 🔗 [flsocial.netlify.app](https://flsocial.netlify.app)
+- 💬 **[Threejs Book Demo](https://threejsbook.netlify.app)** - 🔗 [threejsbook.netlify.app](https://threejsbook.netlify.app)
+- 💬 **[Recipes](https://recipessystem.netlify.app)** - 🔗 [recipessystem.netlify.app](https://recipessystem.netlify.app)
+
+  ## Utils
+
 - 🌐 **[World Clock](https://worldclock.cloud)** — 🔗 [worldclock.cloud](https://worldclock.cloud) - react router zustand style-component
 - ⚙️ **[Cardgroup Util](https://cardgrouputils.netlify.app)** — 🔗 [cardgrouputils.netlify.app](https://cardgrouputils.netlify.app)
-- 💬 **[FLsocial Web](https://flsocial.netlify.app)** — 🔗 [flsocial.netlify.app](https://flsocial.netlify.app)
+
 
 
 </div>
