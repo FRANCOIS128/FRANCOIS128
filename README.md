@@ -65,7 +65,7 @@ Feel free to explore my projects to see how I blend innovative technology with r
 
 - 💬 **[LoginRegister](https://tonjklcnllir.usw.sealos.io/)** — 🔗 [https://tonjklcnllir.usw.sealos.io/](https://tonjklcnllir.usw.sealos.io/) - React Express.js Prisma PostgreSQL JWT Auth GSAP Build Docker Devbox
 - 💬 **[FLsocial Web](https://flsocial.netlify.app)** — 🔗 [flsocial.netlify.app](https://flsocial.netlify.app)
-- 💬 **[Threejs Book Demo](https://threejsbook.netlify.app)** - 🔗 [threejsbook.netlify.app](https://threejsbook.netlify.app)
+- 💬 **[Threejs Book Demo](https://threejsbook.netlify.app)** - 🔗 [threejsbook.netlify.app](https://threejsbook.netlify.app) - still working
 - 💬 **[Recipes](https://recipessystem.netlify.app)** - 🔗 [recipessystem.netlify.app](https://recipessystem.netlify.app)
 
 ## Utils
